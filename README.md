@@ -14,9 +14,40 @@ Date/year: 2025
 This project, including all source code, architecture, documentation and assets, is completely and exclusively owned by **Deepak Raghunath Raut**. You are permitted to use, modify, and distribute the source code only under the terms of the MIT License.
 No warranty, financial advice, or liability is provided. Use at your own risk.
 ⚠️ Contribution Policy & Anti-Spam Disclaimer
+Simple explaination and user features *****************
+Safdo Crypto Shield is a secure, easy-to-use Web3 app that helps Polkadot and multi-chain crypto users monitor and protect their wallets. By connecting your Polkadot-compatible wallet extension, you can instantly view your balances, track transactions, and scan for potential risks—all while keeping your private keys safe on your device. The app also enables decentralized storage of smart contract data via IPFS, ensuring your data is secure and tamper-proof. Built with Flutter Web and a secure Node.js backend, Safdo Crypto Shield combines modern blockchain technology with user-centric design to make crypto safer and more transparent for everyone.
 
+Safdo Crypto Shield — Your Polkadot Web3 Security Companion
+
+Key Features:
+
+Secure Wallet Connect: Integrates with popular Polkadot browser wallets (Polkadot.js, Talisman, SubWallet) without exposing private keys.
+
+Multi-Chain Balance & Transaction Viewer: See your crypto assets and activities across several blockchains from one dashboard.
+
+Risk Detection: Scan transactions for suspicious or risky behavior using live on-chain data.
+
+Decentralized Data Storage: Upload and manage smart contract metadata safely on IPFS via a secure backend proxy.
+
+On-Chain Verification: Directly verify wallet and transaction data with Polkadot RPC endpoints to ensure trustworthiness.
+
+Cross-Platform Access: Use the app on any modern browser with a responsive Flutter Web interface—no installation required.
+
+Why It Matters:
+Cryptocurrency users often face risks like phishing, scams, and opaque contract interactions. Safdo Crypto Shield empowers users with transparency and security tools that are easy to access and understand. It brings peace of mind through on-chain verification and safe decentralized storage, encouraging safer participation in the Polkadot ecosystem.
+
+Ideal For:
+
+Everyday crypto holders wanting enhanced security
+
+Developers needing safe contract storage and verification
+
+Blockchain enthusiasts exploring Polkadot and Web3 tech
+
+Hackathon judges seeking innovative, user-friendly blockchain tools
+**********************************
 To support project growth, contributions are welcome, but with strict rules to protect the project and the owner.
-
+*********************************
 ✔ Allowed
 
 Bug fixes
